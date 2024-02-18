@@ -1,3 +1,6 @@
 Game: https://studio.code.org/projects/playlab/U32tFSmZsubcIBoB4_-nGHqWazcASBqy6UDcMccdBe0
 
 Short Adventure game App : https://studio.code.org/projects/applab/JEPPiX-L76CFzH0sEy5NUV71spPgooyv0TpjZ8-al_M
+
+I wanted to make the game slightly longer with a different route in the second staircase you come across but code.org just would not allow me to save 
+it after so many screens with images. i tried battling with it but it just wouldn't budge 
