@@ -1,0 +1,22 @@
+.titleStyle{
+    color: rgb(104, 2, 2);
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+
+ body{
+    background: url('40164e971044e6bc6.09564576.jpg'); 
+    background-size: cover;
+}
+
+#section1 {
+    text-align: center;
+}
+
+a {
+    margin-right: 20px;
+    font-size: 1.5em;
+}
